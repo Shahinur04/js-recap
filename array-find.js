@@ -3,3 +3,4 @@ const result=numbers.find(function(currentValue,currentIndex,arr){
 return currentValue>4;
 })
 console.log(result);
+// nothing
